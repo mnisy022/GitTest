@@ -1,0 +1,250 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"calculat",
+				"calculateNumberPassed"
+			],
+			[
+				"calcula",
+				"calculateNumberFailed"
+			],
+			[
+				"new",
+				"newArray"
+			],
+			[
+				"runs",
+				"runsExist"
+			],
+			[
+				"list",
+				"listLength"
+			],
+			[
+				"po",
+				"positiveOccurance"
+			],
+			[
+				"add",
+				"AddHand"
+			],
+			[
+				"dice",
+				"diceNum"
+			],
+			[
+				"Arra",
+				"ArrayList"
+			],
+			[
+				"rank",
+				"rankIndex"
+			],
+			[
+				"Create",
+				"CreateDeck"
+			],
+			[
+				"response",
+				"responseInt"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"view",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mnisyif/Desktop/ITI1121/Labs/Lab1/Q5.java",
+		"/home/mnisyif/Desktop/ITI1121/Labs/Lab1/lab1_300077517/README.txt",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Assignment 1/02/Deck.class",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Assignment 1/A3Game/Test1.java",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Assignment 1/A3Game/Card.java",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Assignment 1/A3Game/Die.java",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Assignment 1/A3Game/Test .java",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Assignment 1/A3Game/Deck.java",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Assignment 1/Utils.java",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Assignment 1/StudentInfo.java",
+		"/home/mnisyif/Desktop/ITI1121/Labs/Lab1/Q6.java",
+		"/home/mnisyif/Desktop/Test.java",
+		"/home/mnisyif/Downloads/lab1_123456/Q5.java",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Labs/Lab1/Q3_ReverseSortDemo.java",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Labs/Lab1/Q3_ArrayInsertionDemo.java",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Labs/Lab1/Q3_AverageDemo.java",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Labs/Lab1/Q3_SquareArray.java",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Labs/Lab1/Q2.java",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Labs/Lab1/Q6.java",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Assignment 1/A1Q2.java",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Assignment 1/A3Game/Test.java",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Assignment 1/A1Q2Test.java",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Assignment 1/A1Q3.java",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Assignment 1/A3Game/Test",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Assignment 1/A3Game/Run.java",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Assignment 1/A1Q1.java",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Assignment 1/A1Q3Test.java",
+		"/home/mnisyif/Desktop/ITI1121/Review/HW3-Sol/a3_solution_Q3.py",
+		"/home/mnisyif/Desktop/ITI1121/Assignments/Assignment 1/A1Q1Test.java",
+		"/home/mnisyif/Desktop/ITI1121/Review/a3_solution_Q2.py",
+		"/home/mnisyif/Desktop/ITI1121/Review/a3_solution_Q1.py",
+		"/home/mnisyif/Desktop/ITI1121/a3_solution_GAME.py",
+		"/home/mnisyif/.cache/.fr-QYFjYn/A3F2018/en/a3_solution_GAME.py",
+		"/home/mnisyif/Desktop/ITI1121/a3game.java"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
